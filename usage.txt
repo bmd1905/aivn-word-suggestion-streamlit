@@ -1,0 +1,6 @@
+# install libraries
+!pip install streamlit st_keyup
+
+
+# Run
+!streamlit run main.py
