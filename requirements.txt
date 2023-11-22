@@ -1,1 +1,1 @@
-st_keyup
+st_keyup==0.2.0
