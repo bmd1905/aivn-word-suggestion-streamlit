@@ -65,9 +65,6 @@ def layout(*args):
 
 def footer():
     myargs = [
-        image('https://scontent-ams2-1.xx.fbcdn.net/v/t39.30808-6/326762542_533351005436945_3355631653176967012_n.png?_nc_cat=1&ccb=1-7&_nc_sid=5f2048&_nc_ohc=J2pKQDyGdRgAX_FLksV&_nc_ht=scontent-ams2-1.xx&oh=00_AfDN3M3ADdj9HUK4qGIkj-F77QU6P5hja1XkdcjQQtUg2w&oe=6563863F',
-              width=px(75), height=px(75)),
-        br(),
         "Made by ",
         link("https://www.facebook.com/aivietnam.edu.vn", "AI VIETNAM"),
     ]
